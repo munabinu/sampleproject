@@ -1,1 +1,5 @@
+HEAD
 this is a blank file
+=======
+this is line after first line
+>>>>>>> bugfix
