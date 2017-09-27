@@ -1,3 +1,5 @@
 echo "enter your name"
 read a
+if [ $a == "binay" ]
+then
 echo "hi $a "
